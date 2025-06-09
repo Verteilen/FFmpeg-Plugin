@@ -1,0 +1,22 @@
+{
+    "plugins": [
+        {
+            "name": "ply to ascii",
+            "description": "Trying to convert ply to ascii",
+            "contents": [
+                {
+                    "filename": "ply_to_ascii.exe",
+                    "url": "https://github.com/Verteilen/Plugin-GS4/releases/download/0.1.0-windows/ply_to_ascii.exe",
+                    "platform": "win32",
+                    "arch": "x64"
+                },
+                {
+                    "filename": "ply_to_ascii",
+                    "url": "https://github.com/Verteilen/Plugin-GS4/releases/download/0.1.0-linux/ply_to_ascii",
+                    "platform": "linux",
+                    "arch": "x64"
+                }
+            ]
+        }
+    ]
+}
