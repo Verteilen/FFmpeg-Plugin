@@ -3,6 +3,7 @@
         {
             "name": "ffmpeg",
             "description": "ffmpeg execute",
+            "version": "0.8.0",
             "contents": [
                 {
                     "filename": "ffmpeg.exe",
