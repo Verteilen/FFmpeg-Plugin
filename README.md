@@ -24,7 +24,7 @@ And if you're reference the private repo you will need
 
 ![PageImage](./docs/Page.png)
 
-Wait a bit, And you cann see it in the list now
+Wait a bit, And you can see it in the list now
 
 ![PageImage](./docs/PluginList.png)
 
