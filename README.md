@@ -20,7 +20,8 @@ Click plugin import button on the upper-right corner
 ![PageImage](./docs/PluginButton.png)
 
 Enter the json link to url field and click confirm\
-And if you're reference the private repo you will need
+And if you're reference the private repo you will need token\
+More detail in [Here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
 ![PageImage](./docs/Page.png)
 
