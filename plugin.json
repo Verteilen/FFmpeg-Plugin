@@ -3,17 +3,55 @@
         {
             "name": "ffmpeg",
             "description": "ffmpeg execute",
-            "version": "0.8.0",
+            "version": "0.1.0",
             "contents": [
                 {
                     "filename": "ffmpeg.exe",
-                    "url": "https://github.com/Verteilen/FFmpeg-Plugin/releases/download/0.1.0-window/ffmpeg",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffmpeg",
                     "platform": "win32",
                     "arch": "x64"
                 },
                 {
                     "filename": "ffmpeg",
-                    "url": "https://github.com/Verteilen/FFmpeg-Plugin/releases/download/0.1.0-linux/ffmpeg",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-linux/ffmpeg",
+                    "platform": "linux",
+                    "arch": "x64"
+                }
+            ]
+        },
+        {
+            "name": "ffplay",
+            "description": "ffplay execute",
+            "version": "0.1.0",
+            "contents": [
+                {
+                    "filename": "ffplay.exe",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffplay",
+                    "platform": "win32",
+                    "arch": "x64"
+                },
+                {
+                    "filename": "ffplay",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-linux/ffplay",
+                    "platform": "linux",
+                    "arch": "x64"
+                }
+            ]
+        },
+        {
+            "name": "ffprobe",
+            "description": "ffprobe execute",
+            "version": "0.1.0",
+            "contents": [
+                {
+                    "filename": "ffprobe.exe",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffprobe",
+                    "platform": "win32",
+                    "arch": "x64"
+                },
+                {
+                    "filename": "ffprobe",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-linux/ffprobe",
                     "platform": "linux",
                     "arch": "x64"
                 }
