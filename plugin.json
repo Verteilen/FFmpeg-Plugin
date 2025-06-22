@@ -7,7 +7,7 @@
             "contents": [
                 {
                     "filename": "ffmpeg.exe",
-                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffmpeg",
+                    "url": "https://github.com/Verteilen/FFmpeg-Plugin/releases/download/0.1.0-window/ffmpeg.exe",
                     "platform": "win32",
                     "arch": "x64"
                 },
@@ -26,7 +26,7 @@
             "contents": [
                 {
                     "filename": "ffplay.exe",
-                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffplay",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffplay.exe",
                     "platform": "win32",
                     "arch": "x64"
                 },
@@ -45,7 +45,7 @@
             "contents": [
                 {
                     "filename": "ffprobe.exe",
-                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffprobe",
+                    "url": "https://github.com/Verteilen/Plugin-FFmpeg/releases/download/0.1.0-window/ffprobe.exe",
                     "platform": "win32",
                     "arch": "x64"
                 },
