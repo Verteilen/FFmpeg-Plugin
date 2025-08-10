@@ -2,6 +2,8 @@
 
 The ffmpeg executable files plugin
 
+https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/plugin.json
+
 ## Import
 
 In the github repo page, click the json file to preview, Click upper-right corner raw button to see the raw json data
